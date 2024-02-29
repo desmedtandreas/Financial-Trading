@@ -33,5 +33,5 @@ bt_res = bt.run(bt_strategy, bt_benchmark)
 
 bt_res.display()
 bt_res.plot()
-plt.show()
+
 
